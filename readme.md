@@ -22,7 +22,15 @@ Install dependencies using:
 ```bash
 pip install torch transformers datasets accelerate numpy tqdm
 ```
+## Mental Health Query Validation System
 
+This repository also includes a system for detecting and validating mental health-related queries. It checks for relevant keywords, emotional phrases, and context to ensure the AI responds appropriately. This helps create more reliable and sensitive mental health assistants, making them better suited for real-world support.
+
+Install dependencies using:
+
+```bash
+pip install -U bitsandbytes gradio
+```
 ## Results
 
 The fine-tuned Falcon 7B model provides improved question-answer similarity in the mental well-being domain. By leveraging the Psych8k dataset, the model enhances contextual awareness, leading to more relevant and coherent responses in mental health conversations.
