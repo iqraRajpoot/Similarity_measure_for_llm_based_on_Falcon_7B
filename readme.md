@@ -1,4 +1,4 @@
-# Similarity Measure for LLM-based on Falcon 7B  
+# Similarity Measure for Mental Well_being based on Falcon-7B  
 
 This repository focuses on **fine-tuning the Falcon 7B model** for **mental well-being tasks**, improving similarity measures for question-answer generation. The model is designed to enhance contextual understanding and generate more relevant responses, helping both patients and professionals in the mental health domain.  
 
