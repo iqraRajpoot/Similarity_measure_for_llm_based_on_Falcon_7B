@@ -10,7 +10,7 @@ To fine-tune the model, we used the **Psych8k dataset**, which contains **8187 q
 
 ## Demo
 
-<!-- Uploading "Sample12_mental_health1.mp4"... -->
+https://github.com/user-attachments/assets/09ab7bf4-3370-4012-a8d6-a30208987c5b
 
 ## Installation  
 
