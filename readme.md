@@ -8,6 +8,10 @@ The **Falcon 7B model**, based on transformer architecture, processes input effi
 
 To fine-tune the model, we used the **Psych8k dataset**, which contains **8187 question-answer pairs** extracted from therapist-patient conversations. These interactions were generated via GPT-4 with instruction tuning, offering **high-context dialogue** to improve the model's understanding of mental health queries. [Psych8k Dataset on HuggingFace](https://huggingface.co/datasets/EmoCareAI/Psych8k).  
 
+## Demo
+
+<!-- Uploading "Sample12_mental_health1.mp4"... -->
+
 ## Installation  
 
 Clone the repository:  
